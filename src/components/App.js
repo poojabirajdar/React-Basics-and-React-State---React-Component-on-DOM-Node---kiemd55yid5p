@@ -4,7 +4,11 @@ import React from 'react'
 
 const App=()=>
 {
-  return <h1>Hi</h1>;
+  return (
+    <div id="main">
+    <p> Hi!!I am using React </p>
+    </div>
+     )
 }
  
 export default App;
